@@ -1,0 +1,35 @@
+﻿id,name,orgAddress,ror,INSPIRE,option
+ANL,Argonne National Laboratory,"Physics Division, Argonne National Laboratory, Lemont, Illinois 60439, USA",https://ror.org/05gvnxz63,Argonne,"Physics Division, Argonne National Laboratory, Lemont, Illinois 60439, USA"
+AS,Academia Sinica,"Institute of Physics, Academia Sinica, Taipei, 11529, Taiwan",https://ror.org/05bxb3784,"Taiwan, Inst. Phys.","Institute of Physics, Academia Sinica, Taipei,11529, Taiwan"
+RIKEN,RIKEN Nishina Center for Accelerator-Based Science,"RIKEN Nishina Center for Accelerator-Based Science, Wako, Saitama 351-0198, Japan",https://ror.org/05tqx4s13,"Nishina Ctr., RIKEN","RIKEN Nishina Center for Accelerator-Based Science, Wako, Saitama 351-0198, Japa"
+UIUC,University of Illinois Urbana-Champaign,"Department of Physics, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA",https://ror.org/047426m28,"Illinois U., Urbana","University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA"
+Tokyo,Tokyo Institute of Technology,"Department of Physics, Tokyo Institute of Technology, Meguro-ku, Tokyo 152-8550, Japan",https://ror.org/0112mx960,Tokyo Inst. Tech.,"Tokyo Institute of Technology, Tokyo, Japan"
+LANL,Los Alamos National Laboratory,"Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",https://ror.org/01e41cf67,Los Alamos,"Los Alamos National Laboratory, Los Alamos, New Mexico 87545, US"
+normal,National Kaohsiung Normal University,"Department of Physics, National Kaohsiung Normal University, Kaohsiung 824, Taiwan",https://ror.org/04tsc8g87,"Taiwan, Natl. Kaohsiung Normal U.","Department of Physics, National Kaohsiung Normal University, Kaohsiung 824, Taiwan"
+Colorado,University of Colorado,"Department of Physics, University of Colorado, Boulder, Colorado 80309, USA",https://ror.org/054spjc55,Colorado U.,"""University of Colorado, Boulder, Colorado 80309, USA"
+Michigan,University of Michigan,"Randall Laboratory of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA",https://ror.org/00jmfr291,Michigan U.,"University of Michigan, Ann Arbor, Michigan 48109, USA"
+FNAL,Fermi National Accelerator Laboratory,"Fermi National Accelerator Laboratory, Batavia, Illinois 60510, USA",https://ror.org/020hgte69,Fermilab,"Fermi National Accelerator Laboratory, Batavia, Illinois 60510, USA"
+ACU,Abilene Christian University,"Department of Engineering and Physics, Abilene Christian University, Abilene, Texas 79699, USA",https://ror.org/004srrf86,Abilene Christian U.,"Abilene Christian University, Abilene, Texas 79699 USA"
+Yamagata,Yamagata University,"Department of Physics, Yamagata University, Yamagata City, Yamagata 990-8560, Japan",https://ror.org/00xy44n04,Yamagata U.,"Yamagata University, Yamagata, Japan"
+KEK,KEK,"Institute of Particle and Nuclear Studies, KEK, High Energy Accelerator Research Organization, Tsukuba, Ibaraki 305-0801, Japan",https://ror.org/01g5y5k24,"KEK, Tsukuba","KEK, High Energy Accelerator Research Organization, Tsukuba, Ibaraki 305-0801, Japan"
+Rutgers,"Rutgers, The State University of New Jersey","Department of Physics and Astronomy, Rutgers, The State University of New Jersey, Piscataway, New Jersey 08854, USA",https://ror.org/05vt9qd57,"Rutgers U., Piscataway","Rutgers, The State University of New Jersey, Piscataway, New Jersey 08854, USA"
+National,National Central University,"Department of Physics, National Central University, Jhongli District, Taoyuan City 32001,Taiwan",https://ror.org/00944ve71,"Taiwan, Natl. Central U.","Department of Physics, National Central University, Jhongli District, Taoyuan City 32001,Taiwan"
+UVa,University of Virginia,"University of Virginia, Charlottesville, Virginia 22904 USA",https://ror.org/0153tk833,Virginia U.,"University of Virginia, Charlottesville, VA, 22904 USA "
+Maryland,University of Maryland,"Department of Physics, University of Maryland, College Park, Maryland 20742, USA",https://ror.org/047s2c258,Maryland U.,"University of Maryland, College Park, Maryland 20742, USA"
+msstate,Mississippi State University,"Department of Physics and Astronomy, Mississippi State University, Mississippi State, Mississippi 39762, USA",https://ror.org/0432jq872,Mississippi State U.,"Mississippi State University, Mississippi State, Mississippi 39762, USA"
+nmsu,New Mexico State University,"Department of Physics, New Mexico State University, Las Cruces, NM 88003 USA",https://ror.org/00hpz7z43,New Mexico State U.,"New Mexico State University, Las Cruces, NM 88003 USA"
+jlab,Thomas Jefferson National Accelerator Facility,"Thomas Jefferson National Accelerator Facility, Newport News, Virginia 23606, USA",https://ror.org/02vwzrd76,Jefferson Lab,
+duke,Duke University,"Duke University, Durham, North Carolina 27710, USA",https://ror.org/00py81415,,
+lbnl,Lawrence Berkeley National Laboratory,"Lawrence Berkeley National Laboratory, Berkeley, California 94720 USA",https://ror.org/02jbv0t02,"LBL, Berkeley",
+fiu,Florida International University,"Physics Department, Florida International University, Miami, Florida, 33199, USA",https://ror.org/02gz6gg07,Florida Intl. U.,
+caltech,California Institute of Technology,"Kellogg Radiation Laboratory, California Institute of Technology, Pasadena, California 91125, USA",https://ror.org/05dxps055,Caltech,
+ncu,National Central University,"Center for High Energy and High Field Physics and Department of Physics, National Central University, Taoyuan City 320317, Taiwan",https://ror.org/00944ve71,,
+pensacola,Pensacola State College,"Pensacola State College, Pensacola, FL 32504, USA",https://ror.org/051kxxw69,Pensacola Jr. Coll.,
+wayne,Wayne State University,"Wayne State University, Detroit, MI 48202, USA",https://ror.org/01070mq45,,
+uconn,University of Connecticut,"University of Connecticut, Storrs, CT 06269, USA",https://ror.org/02der9h97,Connecticut U.,
+kagra,KAGRA Observatory,"Institute for Cosmic Ray Research, KAGRA Observatory, The University of Tokyo, Hida, Gifu 506-1205, Japan",https://ror.org/033tx3651,,
+nihon,Nihon University,"Nihon University, College of Science and Technology, Chiyoda-ku, Tokyo 101-8308, Japan",https://ror.org/05jk51a88,"Nihon U., Japan",
+aps,APS,"APS, Argonne National Laboratory, Lemont, Illinois 60439, USA",https://ror.org/04qxsr837,Argonne,
+tsinghua,Tsinghua University,"Department of Physics, Tsinghua University, Beijing 100084, China",https://ror.org/03cve4549,"Tsinghua U., Beijing",
+GWU,George Washington University,"George Washington University, Washington, DC 20052, USA",https://ror.org/00y4zzh67,George Washington U.,
+Memphis,The University of Memphis,"Department of Physics and Materials Science, The University of Memphis, Memphis, TN 38152",https://ror.org/01cq23130,Memphis State U.,
